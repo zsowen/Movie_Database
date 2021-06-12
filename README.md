@@ -1,2 +1,2 @@
 # Movie_Database
-An ETL project looking at box office data, IMDB ratings data, and Metacritic scores.
+We like movies! While this is true for most people, what factors actually lead to the average person cracking open their wallets and dropping their hard earned cash on a movie ticket? Is this determined by genre? Is the MPAA rating a factor? What about the critical reaction to the film? What choices can producers make when deciding what movies to produce to maximize their profits at both the domestic and worldwide box office? Using data cribbed from Box Office Mojo, IMDB, and Metacritic, can we create a database to determine what factors to lead to the highest chance of profitablilty.
