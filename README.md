@@ -7,6 +7,8 @@ We like movies! While this is true for most people, what factors actually lead t
 
 Box Office Mojo CSV pulled from Kaggle - From this CSV we will pull data on the Movie Title, Movie Year, Budget, Domestic Revenue, International Revenue, Worldwide Revenue, MPAA Rating, Runtime, & Genre
 
+IMDB Movie Data CSV pulled from Kaggle - 
+
 Metacritic Movie Reviews – 8934 values
 IMDB Movie Data - 1000 values
 Box Office Mojo – 2476 movies
