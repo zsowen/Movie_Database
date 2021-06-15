@@ -1,4 +1,4 @@
-movie_title,movie_year,budget,domestic,international,worldwide,mpaa,run_time,genre_1,meta_mixed,meta_negative,meta_positive,metascore,user_mixed,user_negative,user_positive,userscore
+Title,Year,Budget,Domestic Revenue,International Revenue,Worldwide Revenue,MPAA Rating,Run Time,Genre,Metacritic Mixed Reviews,Metacritic Negative Reviews,Metacritic Positive Reviews,Metascore,Users Mixed Reviews,Users Negative Reviews,Users Positive Reviews,Userscore
 Glitter,2001,22000000,4274407,997259,5271666,PG-13,1 hr 44 min,Drama,3.0,20.0,0.0,14.0,9,59,31,3.6
 Chicken Run,2000,45000000,106834564,118000000,224834564,,1 hr 24 min,Adventure,1.0,0.0,33.0,88.0,36,9,258,8.2
 Fantastic Four,2005,100000000,154696080,178839854,333535934,PG-13,1 hr 46 min,Action,18.0,11.0,6.0,40.0,161,177,305,5.7
